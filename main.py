@@ -1,6 +1,6 @@
 import os, time
 
-title = "🌟Life Organizer🌟"
+title = "🌟Life Organizer!!🌟"
 list = []
 
 def printList():
